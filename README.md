@@ -1,6 +1,6 @@
-# Reproducing Experiments: Top-k and Ranking Stability
+# Reproducing Experiments: Top-*k* and Ranking Stability
 
-This repository contains code to reproduce the experiments from our paper on stable methods for top-$k$ selection and full ranking.
+This repository contains code to reproduce the experiments from our paper on stable methods for top-*k* selection and full ranking.
 
 ## 📄 Paper
 
@@ -31,7 +31,7 @@ full-ranking-experiment.py   # Synthetic full-ranking experiments
 
 ## 🔁 Reproducing Experiments
 
-### 1. Top-$k$ Experiments (Netflix Prize Data)
+### 1. Top-*k* Experiments (Netflix Prize Data)
 
 #### Dataset Setup
 
@@ -42,7 +42,7 @@ full-ranking-experiment.py   # Synthetic full-ranking experiments
    ```
 
 - **Script:** `topk-exp.py`  
-- **Description:** Runs experiments on top-$k$ selection using the Netflix Prize dataset and generates corresponding appendix plots.
+- **Description:** Runs experiments on top-*k* selection using the Netflix Prize dataset and generates corresponding appendix plots.
 
 ### 2. Full Ranking Simulations (Synthetic Data)
 
