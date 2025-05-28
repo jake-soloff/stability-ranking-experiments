@@ -1,8 +1,6 @@
-# Reproducing Experiments: Top-$k$ and Ranking Stability
+# Reproducing Experiments: Top-k and Ranking Stability
 
 This repository contains code to reproduce the experiments from our paper on stable methods for top-$k$ selection and full ranking.
-
----
 
 ## 📄 Paper
 
