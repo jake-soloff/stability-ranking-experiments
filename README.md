@@ -42,15 +42,9 @@ full-ranking-experiment.py   # Synthetic full-ranking experiments
    ```
 
 - **Script:** `topk-exp.py`  
-- **Description:** Runs experiments on top-*k* selection using the Netflix Prize dataset and generates corresponding appendix plots.
+- **Description:** Runs experiments on top-*k* selection using the Netflix Prize dataset.
 
 ### 2. Full Ranking Simulations (Synthetic Data)
 
 - **Script:** `full-ranking-experiment.py`  
-- **Description:** Runs synthetic experiments for full-list ranking stability.
-
----
-
-## 📊 Results
-
-- Running the scripts will generate outputs and plots corresponding to results in the paper.
+- **Description:** Runs synthetic experiment for full-list ranking stability.
