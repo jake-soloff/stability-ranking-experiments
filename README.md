@@ -22,6 +22,7 @@ pip install -r requirements.txt
 ## 📁 Directory Overview
 
 ```
+requirements.txt                  # Dependencies
 topk-exp.py                  # Netflix top-k experiments + plotting
 combine-raw-data.py          # Converts Netflix raw data to fullData.csv
 full-ranking-experiment.py   # Synthetic full-ranking experiments
