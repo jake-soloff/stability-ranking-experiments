@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ```
 requirements.txt             # Dependencies
-topk-exp-shrink.py           # Netflix top-k experiments + plotting
+topk-exp.py                  # Netflix top-k experiments + plotting
 combine-raw-data.py          # Converts Netflix raw data to fullData.csv
 full-ranking-experiment.py   # Synthetic full-ranking experiments
 ```
@@ -42,7 +42,7 @@ full-ranking-experiment.py   # Synthetic full-ranking experiments
    python combine-raw-data.py
    ```
 
-- **Script:** `topk-exp-shrink.py`  
+- **Script:** `topk-exp.py`  
 - **Description:** Runs experiments on top-*k* selection using the Netflix Prize dataset.
 
 ### 2. Full Ranking Simulations (Synthetic Data)
